@@ -1,1 +1,1 @@
-# alg_lab_1
+# alg_lab_2
